@@ -89,7 +89,7 @@ The dataset contains anonymized client information:
 pip install -r requirements.txt
 
 # Run the main pipeline
-run in  main.ipynb cell wise
+run in  main.ipynb shell wise
 python main.py
 ```
 
